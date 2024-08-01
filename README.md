@@ -44,8 +44,7 @@
     <tr>
       <td valign="top">
         <ul>
-          <li> Java SE 8,11,17,21</li>
-          <li> Java EE</li>
+          <li> Java SE 8,11,17,21; Java EE</li>
           <li> Spring Boot, Spring MVC, Spring DAO</li>
           <li> Hibernate, Jackson, Lombok</li>
           <li> JUnit, Mockito, Reflection API</li>

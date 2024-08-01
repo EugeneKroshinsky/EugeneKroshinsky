@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Eugene Kroshinsky👋</h1>
-<h3 align="center">I study at the Belarusian State University at the Faculty of Applied Mathematics and Informatics. I like doing interesting projects in a team and developing my own web applications</h3>
+<h3 align="center">I study at the Belarusian State University at the Faculty of Applied Mathematics and Informatics. My favorite programming language is Java, I like doing interesting projects in a team and developing my own web applications</h3>
 
 - 📄 My CV: [https://github.com/EugeneKroshinsky/resume](https://github.com/EugeneKroshinsky/resume)
 

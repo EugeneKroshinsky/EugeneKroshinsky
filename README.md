@@ -39,28 +39,30 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
 
-- Java SE 8,11,17,21
-  
--  Java EE
-  
-- Spring Boot, Spring MVC, Spring DAO
-  
-- Hibernate, Jackson, Lombok
-  
-- JUnit, Mockito, Reflection API
-  
-- Algorithms and data structures
 
-- HTML, CSS, Thymeleaf
-
-- Git
-  
-- SQL, PostgreSQL, MySQL
-  
-- Liquibase
-  
-- C++, Qt
-  
+  <table border="0" style="border-collapse: collapse;">
+    <tr>
+      <td valign="top">
+        <ul>
+          <li> Java SE 8,11,17,21</li>
+          <li> Java EE</li>
+          <li> Spring Boot, Spring MVC, Spring DAO</li>
+          <li> Hibernate, Jackson, Lombok</li>
+          <li> JUnit, Mockito, Reflection API</li>
+          <li> Algorithms and data structures</li>
+        </ul>
+      </td>
+      <td valign="top">
+        <ul>
+          <li> HTML, CSS, Thymeleaf</li>
+          <li> Git</li>
+          <li> SQL, PostgreSQL, MySQL</li>
+          <li> Liquibase</li>
+          <li> C++, Qt</li>
+        </ul>
+      </td>
+    </tr>
+  </table>  
 </p>
 
 <h3 align="left">Connect with me:</h3>

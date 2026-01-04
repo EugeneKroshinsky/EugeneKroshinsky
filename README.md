@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Eugene Kroshinsky👋</h1>
 <h3 align="center">I study at the Belarusian State University at the Faculty of Applied Mathematics and Informatics.
 
-- 📄 My CV: [https://github.com/EugeneKroshinsky/resume](https://github.com/EugeneKroshinsky/resume)
+📄 My CV: [https://github.com/EugeneKroshinsky/resume](https://github.com/EugeneKroshinsky/resume)
   
-- 📫 How to reach me: **EugeneKroshinsky@gmail.com**
+📫 How to reach me: **EugeneKroshinsky@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
